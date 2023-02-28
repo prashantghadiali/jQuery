@@ -1,0 +1,33 @@
+button{
+    position: relative;
+    margin: 5vh;
+    margin-left: 45%;
+    background-color: blueviolet;
+    border-radius: 5vh;
+    height: 5vh;
+    width: 25vh;
+    border: none;
+}
+
+button:hover{
+    background-color: tomato;
+}
+
+#box{
+    min-height: 200px;
+    height: auto;
+    width: 80%;
+    margin: auto;
+    background-color: brown;
+    border-radius: 2vh;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
+}
+
+
+.ball{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
