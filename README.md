@@ -1,3 +1,3 @@
 # jQuery
 
-link - https://leafy-marshmallow-0aa193.netlify.app/
+Toggle - https://leafy-marshmallow-0aa193.netlify.app/
